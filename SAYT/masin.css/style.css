@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+#header .all {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.second {
+  padding: 20.5rem 0;
+  background-image: url(https://preview.colorlib.com/theme/allfood/assets/img/hero/h1_hero.png);
+  background-size: cover;
+}
+
+.second .second-text {
+  padding-left: 20rem;
+}
+
+.second .second-text p {
+  color: #ff5600;
+  margin: 0px 0px 44px;
+  font-family: poppins,sans-serif;
+}
+
+.second .second-text h1 {
+  color: #212025;
+  margin: 0px 0px 55px;
+  font-size: 60px;
+  font-family: josefin sans,sans-serif;
+}
+
+.second .second-text h2 {
+  font-family: poppins,sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+}
+/*# sourceMappingURL=style.css.map */
